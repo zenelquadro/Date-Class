@@ -106,5 +106,3 @@ DateProject/
 - Leap year logic and calendar calculations
 
 ---
-
-Let me know if you'd like a template code snippet for `Date.java` or `Main.java` as well!
